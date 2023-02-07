@@ -1,0 +1,12 @@
+.home {
+  display: flex;
+  .left {
+    flex: 5%;
+  }
+  .center {
+    flex: 60%;
+  }
+  .right {
+    flex: 35%;
+  }
+}
